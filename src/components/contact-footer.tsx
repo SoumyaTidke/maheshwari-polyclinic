@@ -1,4 +1,4 @@
-Designed by Soumya Hemant Tidke
+
 import { ArrowRight, Clock, Heart, Leaf, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 
 import { CLINIC, EVENING_HOURS, FOOTER, MORNING_HOURS } from "@/content/clinic";
@@ -162,7 +162,7 @@ export function Footer() {
 
         <div className="border-ivory/15 text-ivory/70 mt-14 flex flex-wrap items-center justify-between gap-x-8 gap-y-3 border-t pt-6 pb-16 text-[14px] sm:pb-14">
           <span>
-            © 2026 {CLINIC.name}. All rights reserved.
+            © 2026 {CLINIC.name}. All rights reserved. Designed by Soumya Tidke.
           </span>
           <span className="display text-ivory flex items-center gap-2.5 text-[17px]">
             <Heart className="size-5" aria-hidden="true" />
