@@ -1,6 +1,8 @@
 {
+  
   "name": "maheshwari-polyclinic",
   "version": "0.1.0",
+  "author": "Soumya Tidke",
   "private": true,
   "scripts": {
     "dev": "next dev",

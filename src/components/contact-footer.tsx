@@ -1,3 +1,4 @@
+Designed by Soumya Hemant Tidke
 import { ArrowRight, Clock, Heart, Leaf, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 
 import { CLINIC, EVENING_HOURS, FOOTER, MORNING_HOURS } from "@/content/clinic";
